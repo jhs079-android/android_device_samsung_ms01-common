@@ -37,7 +37,7 @@ fi
 setup_vendor "${DEVICE_COMMON}" "${VENDOR}" "${LINEAGE_ROOT}" true
 
 # Copyright headers and common guards
-write_headers "ms013g ms01lte"
+write_headers "ms013g ms01lte ms01ltelgt"
 
 write_makefiles "${MY_DIR}/common-proprietary-files.txt"
 

@@ -21,7 +21,7 @@ COMMON_PATH := device/samsung/ms01-common
 TARGET_SPECIFIC_HEADER_PATH := $(COMMON_PATH)/include
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := ms01,ms013g,ms01lte
+TARGET_OTA_ASSERT_DEVICE := ms01,ms013g,ms01lte,ms01ltekor
 
 # Audio
 USE_CUSTOM_AUDIO_POLICY := 1
